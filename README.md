@@ -26,7 +26,7 @@ Open the config.py file and set your lichess username there.
 Then open up Command Prompt(for windows)/Terminal(for mac)
 <br>
 <br>
-and type <code>pip install pypresence</code>
+and type <code>pip install pypresence</code>, <code>pip install requests</code>
 <br>
 <br>
 You should get an output like:
